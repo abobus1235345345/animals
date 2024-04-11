@@ -1,0 +1,7 @@
+D:\ИС-23\Родин Никита\Pasture\bin\Debug\Pasture.exe.config
+D:\ИС-23\Родин Никита\Pasture\bin\Debug\Pasture.exe
+D:\ИС-23\Родин Никита\Pasture\bin\Debug\Pasture.pdb
+D:\ИС-23\Родин Никита\Pasture\obj\Debug\Pasture.csproj.AssemblyReference.cache
+D:\ИС-23\Родин Никита\Pasture\obj\Debug\Pasture.csproj.CoreCompileInputs.cache
+D:\ИС-23\Родин Никита\Pasture\obj\Debug\Pasture.exe
+D:\ИС-23\Родин Никита\Pasture\obj\Debug\Pasture.pdb
